@@ -43,10 +43,10 @@ Welsh agriculture has undergone major structural changes over the past 35 years.
 ## Visualizations
 
 ### Livestock Trends (1990–2025)
-![Livestock Trends](charts/livestock_trends_wales_1990_2025.png)
+![Livestock Trends](livestock_trends_wales_1990_2025.png)
 
 ### Land Use Trends (1990–2025)
-![Land Use Trends](charts/land_use_trends_wales_1990_2025.png)
+![Land Use Trends](land_use_trends_wales_1990_2025.png)
 
 ## Insights & Recommendations
 
