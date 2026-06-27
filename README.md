@@ -4,8 +4,6 @@
 
 This repository contains two data analysis projects focused on agriculture in Wales. Both projects use real government data to explore trends, identify patterns, and generate actionable insights relevant to farming, agribusiness, and agricultural technology.
 
-![Wheat Weather Analysis](wheat_weather_analysis_wales.png)
-
 ## Projects
 
 ### 1. Agricultural Trends in Wales (1990–2025)
@@ -16,6 +14,9 @@ This repository contains two data analysis projects focused on agriculture in Wa
 - Analyzed 35 years of data from the Welsh Government June Agricultural Survey.
 - Identified major structural shifts in Welsh agriculture (strong growth in poultry, decline in sheep, cattle, and pigs).
 - Produced professional visualizations and trend analysis.
+
+![Wheat Weather Analysis](land_use_trends_wales_1990_2025.png)
+![Wheat Weather Analysis](livestock_trends_wales_1990_2025.png)
 
 **Technologies:** Python (pandas, seaborn, matplotlib), Jupyter Notebook  
 **Main File:** `Wales_Agriculture_Analysis.ipynb`
@@ -31,6 +32,8 @@ This repository contains two data analysis projects focused on agriculture in Wa
 - Found a **moderate negative correlation** between temperature and wheat yield.
 - Identified that excessive rainfall (e.g. 2020) and very high temperatures were associated with lower yields.
 - Moderate weather conditions performed best for wheat production.
+
+![Wheat Weather Analysis](wheat_weather_analysis_wales.png)
 
 **Technologies:** Python (pandas, seaborn, matplotlib), Jupyter Notebook  
 **Main File:** `Wheat_Yield_Weather.ipynb`
